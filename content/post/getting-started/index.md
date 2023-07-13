@@ -108,3 +108,6 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
