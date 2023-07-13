@@ -111,15 +111,12 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
 
 
 
-<div id="disqus_thread"></div>
+
 <script>
-    /*
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
 
     var disqus_config = function () {
-    this.page.url = 'https://swang-audioml.netlify.app/post/getting-started/';  
-    this.page.identifier = '1';
+    this.page.url = "https://swang-audioml.netlify.app/post/getting-started/";  
+    this.page.identifier = "1";
     };
 
     (function() { // DON'T EDIT BELOW THIS LINE
